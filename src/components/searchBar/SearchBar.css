@@ -1,0 +1,20 @@
+
+.search-bar{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border-radius: 10px;
+    border: 1.5px solid #94a3b8;
+    width: 410px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    min-height: 50px;
+}
+
+.search-bar-text{
+    border: none;
+    outline: none;
+    font-size: 1rem;
+    margin-left: 5px;
+    color: black;
+}

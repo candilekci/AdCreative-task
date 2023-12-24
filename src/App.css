@@ -1,0 +1,9 @@
+.App-Body{
+font-family: 'Poppins', sans-serif;
+color: #334155;
+font-size: 1rem;
+display: flex;
+justify-content: center;
+padding-top: 50px;
+}
+
